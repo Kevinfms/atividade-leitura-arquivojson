@@ -1,0 +1,32 @@
+{
+    "nomeEscola": "Senai",
+    "cidade" : "Sumaré",
+    "ano" : 2023,
+    "alunos" :[
+        {
+            "nome" : "Camila",
+            "sobrenome" : "Simeoni",
+            "idade" : 31,
+            "sexo" : "Feminino",
+            "cidade" : "Apucarana",
+            "estado" : "Paraná"
+        },
+        {
+            "nome" : "Bianca",
+            "sobrenome" : "Cardoso",
+            "idade" : 26,
+            "sexo" : "Feminino",
+            "cidade" : "Sumaré",
+            "estado" : "São Paulo"
+            
+        },
+        {
+            "nome" : "Felipe",
+            "sobrenome" : "Pereira",
+            "idade" : 22,
+            "sexo" : "Masculino",
+            "cidade" : "Hortolândia",
+            "estado" : "São Paulo"
+        }
+    ]
+}
